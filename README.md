@@ -1,4 +1,4 @@
-# TestAmplificationBotReplicationPackage
+# Test Amplification Bot for Pharo/Smalltalk (Reproduction Package)
 
 Reproduction Package for our paper A Test Amplification Bot for PHARO/SMALLTALK (working submission)
 
