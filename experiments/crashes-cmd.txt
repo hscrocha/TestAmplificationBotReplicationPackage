@@ -1,0 +1,3 @@
+cd experiments
+#find .  -name run_logs.zip -exec zipgrep 'Number of crashed for this class up to now' -B4 {} '*/4_Run mabdismallamp-action@main.txt' \; > ../crashes.txt
+find .  -name run_logs.zip -exec echo '=====New File======' \; -exec echo {} \; -exec  zipgrep 'Number of crashed for this class up to now' -B4 {} '*/4_Run mabdismallamp-action@main.txt' \; > ../crashes.txt

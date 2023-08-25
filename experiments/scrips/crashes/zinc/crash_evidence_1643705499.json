@@ -1,0 +1,1 @@
+{"testClass":"ZnBufferedWriteStreamTest","mutant":{"operatorDescription":"Remove ^","class":"ZnBufferedWriteStream","operatorClass":"RemoveCaretOperator","mutationStart":12,"method":"position","mutatedNode":"stream position + position","mutationEnd":39}}

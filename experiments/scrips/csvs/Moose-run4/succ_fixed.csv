@@ -1,0 +1,8 @@
+className,amplifiedClass,targets,mutationScoreBefore,mutationScoreAfter,mutationImprove,numberOfOriginalTestMethods,targetLoc,testLoc,testAmpLoc,n_amplifiedMethods,n_notCoveredInOriginal,n_newCovered,n_notCoveredInAmplified,n_methodsNotProfiled,timeTotal,max_number_of_changes,numberOfProcessedMethods,testClassTimeToRunInMillis,numberOfAllMutationsInOriginal,numberOfTestMethodsBeforeShreding,timeBudgetFinished,duplicateMutants
+ButtonPartTest,ButtonPartTest16,ButtonPart,50.00,75.00,25.00,2,24,12,13,1,2,1,1,0,10,0,2,1,4,2,False,0
+CheckboxPartTest,CheckboxPartTest10,CheckboxPart,10.00,90.00,80.00,1,66,6,54,2,9,8,1,5,7,1,1,1,10,1,False,0
+DistributionMapExampleTest,DistributionMapExampleTest6,DistributionMapExample,38.89,38.89,0.00,1,167,12,0,0,22,0,22,7,483,0,0,263,36,1,False,0
+DropListPartTest,DropListPartTest10,DropListPart,30.77,50.00,19.23,1,85,8,42,1,18,5,13,8,7,0,1,0,26,1,False,0
+FAMIXInvocationGroupTest,FAMIXInvocationGroupTest10,FAMIXInvocationGroup,0.00,0.00,0.00,1,6,48,0,0,1,0,1,0,2,0,1,2,1,1,False,0
+MooseFameViewTest,MooseFameViewTest16,MooseFameView,28.57,28.57,0.00,2,32,4,0,0,10,0,10,1,87,0,2,284,14,2,False,0
+MooseFinderTest,MooseFinderTest34,MooseFinder,0.00,0.00,0.00,5,28,94,0,0,6,0,6,2,11,0,5,6,6,10,False,0

@@ -1,0 +1,1 @@
+{"testClass":"LazyArrayTest1To15","mutant":{"operatorDescription":"Remove ^","class":"LazyArray class","operatorClass":"RemoveCaretOperator","mutationStart":11,"method":"newArray","mutatedNode":"self className: #Array","mutationEnd":34}}

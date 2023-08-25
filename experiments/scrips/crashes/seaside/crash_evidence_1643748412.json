@@ -1,0 +1,1 @@
+{"testClass":"WAUrlTest16To30","mutant":{"operatorDescription":"Replace #or: with #bXor:","class":"WAUrl class","operatorClass":"ReplaceOrWithXorMutantOperator","mutationStart":192,"method":"readHexFrom:errorDetail:","mutatedNode":"(hexChar between: $a and: $f) bXor: [ hexChar between: $A and: $F ]","mutationEnd":258}}

@@ -1,0 +1,12 @@
+className,Error,Info
+ZnBufferedReadStreamTest,Unknown,
+ZnClientTest16To30,Unknown,
+ZnClientTest1To15,Unknown,
+ZnClientTest31To42,Unknown,
+ZnDispatcherDelegateTest,SANoUncovered,
+ZnImageExampleDelegateTest,Unknown,
+ZnPrefixMappingDelegateTest,SANoUncovered,
+ZnUrlTest16To30,Unknown,
+ZnUrlTest1To15,Unknown,
+ZnUrlTest31To45,Unknown,
+ZnUrlTest46To50,Unknown,

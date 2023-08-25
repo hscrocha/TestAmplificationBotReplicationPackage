@@ -1,0 +1,22 @@
+name: 'SmallAmp'
+description: 'Test amplification for Pharo'
+inputs:
+  action:  
+    description: 'action (setup, amplify, push)'
+    required: true
+    default: 'setup'
+  smallamp-source:
+    description: 'SmallAmp GitHub repository'
+    required: false
+    default: 'mabdi/small-amp'
+  smallamp-branch:
+    description: 'Branch name in SmallAmp repository'
+    required: false
+    default: 'master'
+  github-token:
+    description: 'Access token for authenticating octokit (needed on push action)'
+    required: false
+    default: '-'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
